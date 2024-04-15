@@ -1,0 +1,14 @@
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\bin\Debug\net8.0\Programacion2024.exe
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\bin\Debug\net8.0\Programacion2024.deps.json
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\bin\Debug\net8.0\Programacion2024.runtimeconfig.json
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\bin\Debug\net8.0\Programacion2024.dll
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\bin\Debug\net8.0\Programacion2024.pdb
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\obj\Debug\net8.0\Programacion2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\obj\Debug\net8.0\Programacion2024.AssemblyInfoInputs.cache
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\obj\Debug\net8.0\Programacion2024.AssemblyInfo.cs
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\obj\Debug\net8.0\Programacion2024.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\obj\Debug\net8.0\Programacion2024.dll
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\obj\Debug\net8.0\refint\Programacion2024.dll
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\obj\Debug\net8.0\Programacion2024.pdb
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\obj\Debug\net8.0\Programacion2024.genruntimeconfig.cache
+C:\Users\Emanuel\source\repos\Programacion2024\Programacion2024\obj\Debug\net8.0\ref\Programacion2024.dll
