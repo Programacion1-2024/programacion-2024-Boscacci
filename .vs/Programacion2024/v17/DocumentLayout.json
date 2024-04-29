@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bosca\\source\\repos\\programacion-2024-Boscacci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C364645-91B2-4173-84DB-9AE2461D3057}|Programacion2024\\Programacion2024.csproj|c:\\users\\bosca\\source\\repos\\programacion-2024-boscacci\\programacion2024\\ejercicio 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C364645-91B2-4173-84DB-9AE2461D3057}|Programacion2024\\Programacion2024.csproj|solutionrelative:programacion2024\\ejercicio 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio 1.cs",
+              "DocumentMoniker": "C:\\Users\\bosca\\source\\repos\\programacion-2024-Boscacci\\Programacion2024\\ejercicio 1.cs",
+              "RelativeDocumentMoniker": "Programacion2024\\ejercicio 1.cs",
+              "ToolTip": "C:\\Users\\bosca\\source\\repos\\programacion-2024-Boscacci\\Programacion2024\\ejercicio 1.cs",
+              "RelativeToolTip": "Programacion2024\\ejercicio 1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:43:12.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

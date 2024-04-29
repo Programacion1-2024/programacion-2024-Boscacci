@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Emanuel\\.nuget\\packages\\": {}
+    "C:\\Users\\bosca\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emanuel\\Documents\\GitHub\\programacion-2024-Boscacci\\Programacion2024\\Programacion2024.csproj",
+      "projectUniqueName": "C:\\Users\\bosca\\Source\\Repos\\programacion-2024-Boscacci\\Programacion2024\\Programacion2024.csproj",
       "projectName": "Programacion2024",
-      "projectPath": "C:\\Users\\Emanuel\\Documents\\GitHub\\programacion-2024-Boscacci\\Programacion2024\\Programacion2024.csproj",
-      "packagesPath": "C:\\Users\\Emanuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emanuel\\Documents\\GitHub\\programacion-2024-Boscacci\\Programacion2024\\obj\\",
+      "projectPath": "C:\\Users\\bosca\\Source\\Repos\\programacion-2024-Boscacci\\Programacion2024\\Programacion2024.csproj",
+      "packagesPath": "C:\\Users\\bosca\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bosca\\Source\\Repos\\programacion-2024-Boscacci\\Programacion2024\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Emanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bosca\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
