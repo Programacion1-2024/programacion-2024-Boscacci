@@ -9,6 +9,8 @@ namespace CEntidades.Entidades
     public class CopiaLibro
     {
         public int IdCopiaLibro { get; set; }
-        public float PrecioPrestamo { get; set; }
+        public long PrecioPrestamo { get; set; }
+        public ICollection<Prestamo> Prestamos { get; set; }
+        public Libro Libro { get; set; }
     }
 }
